@@ -18,7 +18,9 @@ anchor test --validator legacy
 You need `--validator legacy`. Anchor 1.0 goes for Surfpool by default and I don't have
 Surfpool installed, so without the flag it just dies with `Failed to spawn 'surfpool'`.
 
-22 tests pass. Screenshot is in `screenshots/`.
+22 tests pass.
+
+![22 passing](./screenshots/tests-passing.png)
 
 ---
 
